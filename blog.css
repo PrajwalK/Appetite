@@ -1,0 +1,15 @@
+body{
+    margin-top: 75px;
+}
+
+@media (min-width: 768px) { 
+        .group2 {
+        text-align: right;
+        }
+        .col-md-4#widget{
+            padding-top: 55px;
+        }
+}
+.row-responsive{
+    padding-left: 20px;
+}
